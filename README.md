@@ -1,5 +1,6 @@
 # Assignment Description
-As per assignment spec: 
+As per assignment spec:
+
 The objective is to write a program that will model the static heat distribution of a room with a
 fireplace using a stencil pattern. Although a room is 3 dimensional, we will be simulating the room
 with 2 dimensions. The room is 10 feet wide and 10 feet long with a fireplace along one wall as
